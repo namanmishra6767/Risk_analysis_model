@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-model = joblib.load('Riskmodel1.impynb')
+model = joblib.load('Riskmodel1.pkl')
 
 st.title = "Healthcare Risk Stratification"
 age = st.number_input("Age", min_value=0)
