@@ -101,6 +101,7 @@ Model performance is evaluated using **Precision**, **Recall**, **F1-Score**, an
 
 * **[Python](https://www.python.org/)** - Core programming language
 * **[Pandas](https://pandas.pydata.org/)** - Data manipulation and analysis
+* **[NumPy](https://numpy.org/)** - Numerical computing and array processing
 * **[Scikit-Learn](https://scikit-learn.org/)** - Machine learning modeling and evaluation
 * **[Streamlit](https://streamlit.io/)** - Interactive web framework for ML apps
 
